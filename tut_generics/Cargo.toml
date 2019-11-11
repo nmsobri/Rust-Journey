@@ -1,0 +1,8 @@
+[package]
+name = "tut_generics"
+version = "0.1.0"
+authors = ["slier81 <slier81@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+typename = "0.1.1"

@@ -1,0 +1,9 @@
+[package]
+name = "slier_art"
+description = "Testing publishing my awesome slier art to crates.io"
+license = "MIT"
+version = "0.1.0"
+authors = ["slier81 <slier81@gmail.com>"]
+edition = "2018"
+
+[dependencies]
